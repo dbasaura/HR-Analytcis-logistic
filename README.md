@@ -1,1 +1,1 @@
-# HR-Analytics-logistic
+# HR-Analytics-logistic-regression
