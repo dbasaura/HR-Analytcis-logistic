@@ -1,1 +1,1 @@
-# HR-Analytcis-logistic
+# HR-Analytics-logistic
